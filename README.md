@@ -1,5 +1,5 @@
 # Brouwer-Zimmermann_Hamming_distance
-Source code for standalone (not Magma) Brouwer-Zimmermann Code (Hamming) distance estimaion of linear block code from article  [1,2].
+Source code for standalone (not Magma) Brouwer-Zimmermann Code (Hamming) distance estimation of linear block code from article  [1,2].
 
 
 # References
